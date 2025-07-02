@@ -4,11 +4,11 @@ title: Table of Contents
 ---
 ### Front Matter
 
-- [Title Page](/docs/00_title-page)
-- [Abstract](/docs/01_abstract)
-- [Preface](/docs/02_preface)
-- [Acknowledgments](/docs/03_acknowledgments)
-- [Table of Contents](/docs/04_toc)
+- [Title Page](/me-when-i/docs/00_title-page)
+- [Abstract](/me-when-i/docs/01_abstract)
+- [Preface](/me-when-i/docs/02_preface)
+- [Acknowledgments](/me-when-i/docs/03_acknowledgments)
+- [Table of Contents](/me-when-i/docs/04_toc)
 
 <div style={{maxWidth: '900px', margin: '0 auto'}}>
 
@@ -41,7 +41,7 @@ title: Table of Contents
     }}>1</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/05_chapter1_intro" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/05_chapter1_intro" style={{textDecoration: 'none', color: 'inherit'}}>
           Introduction - The Meme, The Method, The Meaning
         </a>
       </h4>
@@ -77,7 +77,7 @@ title: Table of Contents
     }}>2</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/06_chapter2_meme_evolution" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/06_chapter2_meme_evolution" style={{textDecoration: 'none', color: 'inherit'}}>
           From Humor to Incompletion - Meme Evolution & the Post-Ironic Turn
         </a>
       </h4>
@@ -113,7 +113,7 @@ title: Table of Contents
     }}>3</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/07_chapter3_linguistic_fragmentation" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/07_chapter3_linguistic_fragmentation" style={{textDecoration: 'none', color: 'inherit'}}>
           The Linguistics of Fragmentation - Reading "Me When I"
         </a>
       </h4>
@@ -149,7 +149,7 @@ title: Table of Contents
     }}>4</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/08_chapter4_tim_cook" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/08_chapter4_tim_cook" style={{textDecoration: 'none', color: 'inherit'}}>
           Tim Cook as Meme Object - Corporate Figures in Digital Symbolism
         </a>
       </h4>
@@ -185,7 +185,7 @@ title: Table of Contents
     }}>5</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/09_chapter5_visual_compression" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/09_chapter5_visual_compression" style={{textDecoration: 'none', color: 'inherit'}}>
           Visual Compression & Aesthetic Breakdown
         </a>
       </h4>
@@ -221,7 +221,7 @@ title: Table of Contents
     }}>6</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/10_chapter6_theoretical_lenses" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/10_chapter6_theoretical_lenses" style={{textDecoration: 'none', color: 'inherit'}}>
           Theoretical Lenses - Applying Critical Theory to the Meme
         </a>
       </h4>
@@ -257,7 +257,7 @@ title: Table of Contents
     }}>7</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/11_chapter7_affective_nonsense" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/11_chapter7_affective_nonsense" style={{textDecoration: 'none', color: 'inherit'}}>
           Affective Nonsense - Emotion, Projection, Identity
         </a>
       </h4>
@@ -293,7 +293,7 @@ title: Table of Contents
     }}>8</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/12_chapter8_discussion" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/12_chapter8_discussion" style={{textDecoration: 'none', color: 'inherit'}}>
           Discussion - Coherence, Collapse, and Digital Absurdism
         </a>
       </h4>
@@ -329,7 +329,7 @@ title: Table of Contents
     }}>9</div>
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
-        <a href="/docs/13_chapter9_conclusion" style={{textDecoration: 'none', color: 'inherit'}}>
+        <a href="/me-when-i/docs/13_chapter9_conclusion" style={{textDecoration: 'none', color: 'inherit'}}>
           Conclusion - Incompletion as Cultural Expression
         </a>
       </h4>
@@ -346,5 +346,5 @@ title: Table of Contents
 
 ### Back Matter
 
-- [Works Cited](/docs/14_works_cited)
-- [Appendix](/docs/15_appendix)
+- [Works Cited](/me-when-i/docs/14_works_cited)
+- [Appendix](/me-when-i/docs/15_appendix)
