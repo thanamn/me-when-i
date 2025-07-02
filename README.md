@@ -4,7 +4,7 @@
 
 So I made this terrible, absurdist Tim Cook meme that literally only me and my friend know about:
 
-![Me When I meme](static/img/me-when-i-meme.jpg)
+<img src="static/img/me-when-i-meme.jpg" alt="Me When I meme" width="150" />
 
 Then I thought it would be funny to write an entire academic paper analyzing it. I'm actually trying to use real academic methods to make it convincing, which turned into a good way to practice skills:
 
