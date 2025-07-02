@@ -11,10 +11,9 @@ title: Appendix
 
 The central artifact examined in this thesis is presented below in its original form, as it circulates across digital platforms.
 
-<div style={{textAlign: 'center', margin: '30px 0'}}>
-  <img src="/img/me-when-i-meme.jpg" alt="Me When I - Tim Cook Meme" style={{maxWidth: '500px', width: '100%', height: 'auto', border: '1px solid #ddd', padding: '10px'}} />
-  <p style={{fontStyle: 'italic', fontSize: '0.9em', marginTop: '15px'}}>Figure A.1: The "Me When I" meme featuring Tim Cook (Primary source material)</p>
-</div>
+![Me When I - Tim Cook Meme](/img/me-when-i-meme.jpg)
+
+*Figure A.1: The "Me When I" meme featuring Tim Cook (Primary source material)*
 
 ### Meme Metadata
 
