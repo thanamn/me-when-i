@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://me-when-i-thesis.netlify.app',
+  url: 'https://thanamn.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/me-when-i/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-username', // Usually your GitHub org/user name.
-  projectName: 'me-when-i-thesis', // Usually your repo name.
+  organizationName: 'thanamn', // Usually your GitHub org/user name.
+  projectName: 'me-when-i', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -78,7 +78,7 @@ const config = {
             label: 'Thesis',
           },
           {
-            href: 'https://github.com/your-username/me-when-i-thesis',
+            href: 'https://github.com/thanamn/me-when-i',
             label: 'GitHub',
             position: 'right',
           },
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-username/me-when-i-thesis',
+                href: 'https://github.com/thanamn/me-when-i',
               },
             ],
           },
