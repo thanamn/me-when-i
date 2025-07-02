@@ -1,6 +1,6 @@
 # "Me When I": A Serious Cultural and Theoretical Analysis of Incomplete Memes
 
-**⚠️ Disclaimer: This is just a practice project where I'm trying to write like an academic about a meme I made. It's not a real thesis, obviously!**
+**⚠️ Disclaimer: This is just a practice project where I'm trying to write like an academic about a meme I made. It's not a real thesis, obviously! Highly assisted by AI.**
 
 So I made this terrible, absurdist Tim Cook meme that literally only me and my friend know about:
 
