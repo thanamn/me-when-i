@@ -2,11 +2,11 @@
 id: 06_chapter2_meme_evolution
 title: "Chapter 2: Meme Evolution"
 ---
-# Chapter 2: From Humor to Incompletion — Meme Evolution & the Post-Ironic Turn
+# Chapter 2: From Humor to Incompletion - Meme Evolution & the Post-Ironic Turn
 
 ## 2.1 Introduction to Meme Evolution
 
-The concept of the meme, as introduced by Richard Dawkins in his seminal work *The Selfish Gene* (1976), provides a framework for understanding cultural transmission and evolution. Dawkins defines memes as units of cultural information—ideas, behaviors, or styles—that spread from person to person within a culture, analogous to the way genes propagate biological information. Memes, according to Dawkins, are subject to variation, competition, and selection, making them a cornerstone for understanding how cultural phenomena evolve over time (Dawkins 192). While Dawkins’ original concept was broad, encompassing everything from melodies to architectural styles, the advent of the internet has given rise to a specific subset of memes: internet memes.
+The concept of the meme, as introduced by Richard Dawkins in his seminal work *The Selfish Gene* (1976), provides a framework for understanding cultural transmission and evolution. Dawkins defines memes as units of cultural information-ideas, behaviors, or styles-that spread from person to person within a culture, analogous to the way genes propagate biological information. Memes, according to Dawkins, are subject to variation, competition, and selection, making them a cornerstone for understanding how cultural phenomena evolve over time (Dawkins 192). While Dawkins’ original concept was broad, encompassing everything from melodies to architectural styles, the advent of the internet has given rise to a specific subset of memes: internet memes.
 
 Limor Shifman, a leading scholar in internet meme studies, builds on Dawkins’ foundational ideas to explore how memes function in the digital age. In her book *Memes in Digital Culture* (2014), Shifman defines internet memes as "(a) a group of digital items sharing common characteristics of content, form, and/or stance, which (b) were created with awareness of each other, and (c) were circulated, imitated, and/or transformed via the internet by many users" (Shifman 41). This definition highlights the participatory and iterative nature of internet memes, distinguishing them from their pre-digital counterparts. Unlike traditional cultural artifacts, which often rely on centralized production and dissemination, internet memes thrive in decentralized, user-driven environments. Platforms like Reddit, Twitter, and Instagram serve as fertile grounds for the creation, adaptation, and dissemination of memes, enabling them to evolve at an unprecedented pace.
 
@@ -97,3 +97,4 @@ The logic of incompletion emerged as a defining characteristic of contemporary m
 Finally, we reflected on the transformation of memes into lo-fi, image-dominant artifacts, emphasizing their post-textual nature and aesthetic collapse. Drawing on Susan Sontag, Alexander Galloway, and Glitch Studies, we analyzed how memes use degraded visuals and fragmented aesthetics to critique and subvert digital culture, offering a new mode of communication that is both fragmented and participatory.
 
 Together, these explorations provide a comprehensive framework for understanding the "Me When I" meme as a post-ironic artifact of digital culture. By situating this meme within the broader history and aesthetics of internet humor, we are now prepared to analyze its significance as a cultural expression that embodies the tensions, contradictions, and possibilities of the digital age.
+

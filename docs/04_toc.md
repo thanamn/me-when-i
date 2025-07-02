@@ -42,7 +42,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/05_chapter1_intro" style={{textDecoration: 'none', color: 'inherit'}}>
-          Introduction — The Meme, The Method, The Meaning
+          Introduction - The Meme, The Method, The Meaning
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -78,7 +78,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/06_chapter2_meme_evolution" style={{textDecoration: 'none', color: 'inherit'}}>
-          From Humor to Incompletion — Meme Evolution & the Post-Ironic Turn
+          From Humor to Incompletion - Meme Evolution & the Post-Ironic Turn
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -114,7 +114,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/07_chapter3_linguistic_fragmentation" style={{textDecoration: 'none', color: 'inherit'}}>
-          The Linguistics of Fragmentation — Reading "Me When I"
+          The Linguistics of Fragmentation - Reading "Me When I"
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -150,7 +150,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/08_chapter4_tim_cook" style={{textDecoration: 'none', color: 'inherit'}}>
-          Tim Cook as Meme Object — Corporate Figures in Digital Symbolism
+          Tim Cook as Meme Object - Corporate Figures in Digital Symbolism
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -222,7 +222,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/10_chapter6_theoretical_lenses" style={{textDecoration: 'none', color: 'inherit'}}>
-          Theoretical Lenses — Applying Critical Theory to the Meme
+          Theoretical Lenses - Applying Critical Theory to the Meme
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -258,7 +258,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/11_chapter7_affective_nonsense" style={{textDecoration: 'none', color: 'inherit'}}>
-          Affective Nonsense — Emotion, Projection, Identity
+          Affective Nonsense - Emotion, Projection, Identity
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -294,7 +294,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/12_chapter8_discussion" style={{textDecoration: 'none', color: 'inherit'}}>
-          Discussion — Coherence, Collapse, and Digital Absurdism
+          Discussion - Coherence, Collapse, and Digital Absurdism
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>
@@ -330,7 +330,7 @@ title: Table of Contents
     <div style={{flex: 1}}>
       <h4 style={{margin: '0 0 0.5rem 0', fontSize: '1.1rem'}}>
         <a href="/docs/13_chapter9_conclusion" style={{textDecoration: 'none', color: 'inherit'}}>
-          Conclusion — Incompletion as Cultural Expression
+          Conclusion - Incompletion as Cultural Expression
         </a>
       </h4>
       <p style={{margin: 0, fontSize: '0.95rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5'}}>

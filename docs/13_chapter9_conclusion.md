@@ -2,7 +2,7 @@
 id: 13_chapter9_conclusion
 title: "Chapter 9: Conclusion"
 ---
-# Chapter 9: Conclusion — Incompletion as Cultural Expression
+# Chapter 9: Conclusion - Incompletion as Cultural Expression
 
 ## 9.1 Summary of Findings
 
@@ -67,3 +67,4 @@ Affective media and the emotional dimensions of meme culture represent another c
 Finally, the intersection of meme studies with other disciplines, such as political science, sociology, and media ecology, offers opportunities for interdisciplinary research. Memes play a significant role in shaping public discourse, influencing political movements, and reflecting societal values. By integrating perspectives from multiple fields, researchers can develop a more comprehensive understanding of the cultural, social, and technological forces that shape meme culture.
 
 In conclusion, the study of memes is a rapidly evolving field that reflects the complexities and contradictions of digital culture. By addressing emerging areas such as AI-generated memes, non-textual communication, global meme circulation, and affective media, future research can deepen our understanding of how memes function as dynamic and participatory artifacts of the digital age. As digital culture continues to transform, the study of memes will remain an essential lens for examining the ways in which individuals and communities navigate, negotiate, and make sense of the mediated world.
+

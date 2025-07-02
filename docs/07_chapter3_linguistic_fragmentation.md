@@ -2,7 +2,7 @@
 id: 07_chapter3_linguistic_fragmentation
 title: "Chapter 3: Linguistic Fragmentation"
 ---
-# Chapter 3: The Linguistics of Fragmentation — Reading “Me When I”
+# Chapter 3: The Linguistics of Fragmentation - Reading “Me When I”
 
 ## 3.1 Introduction to Linguistic Fragmentation in Memes
 
@@ -44,7 +44,7 @@ Pragmatic inference in memes is further facilitated by the interplay between tex
 
 The participatory nature of meme culture also plays a crucial role in the pragmatics of meme language. As Limor Shifman notes in *Memes in Digital Culture*, memes are inherently intertextual, drawing on existing cultural knowledge and encouraging users to contribute their own variations (Shifman 78). This intertextuality enables fragmented text to function effectively within a shared cultural framework, as users rely on their collective understanding of internet culture to interpret and appreciate the content. For example, the humor of a "Me When I" meme often stems from its ability to tap into universal experiences or widely recognized tropes, creating a sense of connection and relatability among viewers.
 
-Moreover, the use of fragmented text in memes aligns with H.P. Grice's cooperative principle, which outlines the implicit rules that govern effective communication. According to Grice, speakers and listeners adhere to maxims of quantity, quality, relation, and manner to ensure that their messages are understood (Grice 45). In the context of memes, the maxim of relation—ensuring that contributions are relevant to the context—takes on particular significance. The fragmented nature of "Me When I" relies on the viewer's ability to infer relevance based on the accompanying image and their own cultural knowledge, transforming the act of interpretation into a collaborative process.
+Moreover, the use of fragmented text in memes aligns with H.P. Grice's cooperative principle, which outlines the implicit rules that govern effective communication. According to Grice, speakers and listeners adhere to maxims of quantity, quality, relation, and manner to ensure that their messages are understood (Grice 45). In the context of memes, the maxim of relation-ensuring that contributions are relevant to the context-takes on particular significance. The fragmented nature of "Me When I" relies on the viewer's ability to infer relevance based on the accompanying image and their own cultural knowledge, transforming the act of interpretation into a collaborative process.
 
 The pragmatic strategies employed in meme language also reflect broader trends in digital communication, where brevity and immediacy are often prioritized over grammatical completeness. As Naomi Baron observes in *Always On: Language in an Online and Mobile World*, the constraints of digital platforms have led to the development of new linguistic norms that emphasize efficiency and adaptability (Baron 67). Memes, with their concise captions and reliance on visual elements, exemplify this shift, using fragmented text as a means of maximizing impact and fostering engagement.
 
@@ -68,7 +68,7 @@ In summary, the stylistic features of internet language, including abbreviations
 
 ## 3.5 The Role of Ambiguity and Open-Endedness
 
-Ambiguity and open-endedness are central to the communicative and aesthetic power of memes, particularly in the case of the "Me When I" meme. These linguistic features invite emotional projection and participatory meaning-making, transforming the act of interpretation into a collaborative and creative process. As Roland Barthes argues in *S/Z*, texts that embrace ambiguity and resist fixed meanings—what he terms "writerly texts"—encourage readers to become co-creators of meaning (Barthes 4). The "Me When I" meme exemplifies this dynamic by presenting an incomplete phrase that compels viewers to fill in the gaps with their own experiences, emotions, and cultural knowledge.
+Ambiguity and open-endedness are central to the communicative and aesthetic power of memes, particularly in the case of the "Me When I" meme. These linguistic features invite emotional projection and participatory meaning-making, transforming the act of interpretation into a collaborative and creative process. As Roland Barthes argues in *S/Z*, texts that embrace ambiguity and resist fixed meanings-what he terms "writerly texts"-encourage readers to become co-creators of meaning (Barthes 4). The "Me When I" meme exemplifies this dynamic by presenting an incomplete phrase that compels viewers to fill in the gaps with their own experiences, emotions, and cultural knowledge.
 
 The open-endedness of "Me When I" is a deliberate stylistic choice that aligns with broader trends in digital communication. As Naomi Baron notes in *Always On: Language in an Online and Mobile World*, the constraints of digital platforms often lead to the use of fragmented and ambiguous language forms, which prioritize brevity and adaptability over grammatical completeness (Baron 67). In the context of memes, this ambiguity serves a dual purpose: it reduces the cognitive load required to process the text while simultaneously creating a space for personal interpretation. The phrase "Me When I" achieves its humor and resonance precisely because it leaves the narrative unfinished, inviting viewers to project their own scenarios and emotions onto the text.
 

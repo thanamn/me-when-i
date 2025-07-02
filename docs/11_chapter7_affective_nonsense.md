@@ -2,7 +2,7 @@
 id: 11_chapter7_affective_nonsense
 title: "Chapter 7: Affective Nonsense"
 ---
-# Chapter 7: Affective Nonsense — Emotion, Projection, Identity
+# Chapter 7: Affective Nonsense - Emotion, Projection, Identity
 
 ## 7.1 Introduction to Affective Theory in Digital Culture
 
@@ -62,7 +62,7 @@ The participatory nature of meme culture also plays a crucial role in amplifying
 
 Examples from broader meme culture further illustrate how absurdity and nonsense generate affective responses and community bonding. The "Surreal Memes" genre, characterized by its bizarre and nonsensical imagery, has gained popularity for its ability to evoke a mix of humor, confusion, and existential reflection. Memes like "Deep-Fried Memes," which feature heavily distorted and exaggerated visuals, similarly leverage absurdity to create a shared affective experience that resonates with audiences across diverse cultural contexts. These examples demonstrate how absurdity functions as a universal language of digital culture, capable of eliciting emotional responses and fostering connections among viewers.
 
-The affective power of absurdity in memes also reflects broader cultural and social dynamics. As Ngai observes, absurdity often serves as a coping mechanism for navigating the contradictions and uncertainties of contemporary life (Ngai 178). In the context of digital culture, where fragmentation and incoherence are pervasive, memes like the "Me When I" meme provide a means of making sense—or embracing the lack of sense—of the world. By engaging with absurdity, viewers not only find humor and solace but also participate in a collective act of meaning-making that reinforces their sense of community and shared experience.
+The affective power of absurdity in memes also reflects broader cultural and social dynamics. As Ngai observes, absurdity often serves as a coping mechanism for navigating the contradictions and uncertainties of contemporary life (Ngai 178). In the context of digital culture, where fragmentation and incoherence are pervasive, memes like the "Me When I" meme provide a means of making sense-or embracing the lack of sense-of the world. By engaging with absurdity, viewers not only find humor and solace but also participate in a collective act of meaning-making that reinforces their sense of community and shared experience.
 
 In summary, absurdity and nonsense are integral to the affective and communal dimensions of meme culture. By drawing on the insights of theorists like Ngai, Ahmed, and Shifman, this section has demonstrated how memes like the "Me When I" meme leverage absurdity to generate emotional engagement and foster community bonding. Through their humor, ambiguity, and participatory dynamics, absurd memes not only reflect the complexities of digital culture but also create spaces for connection and collective creativity, positioning themselves as powerful tools for affective and social engagement in the digital age.
 
@@ -95,3 +95,4 @@ The role of identity construction in meme culture is equally significant. As But
 Finally, the absurdity of the "Me When I" meme serves as both a critique and a celebration of digital culture. As Ngai and Shifman have noted, absurdity functions as a powerful tool for navigating the contradictions and uncertainties of contemporary life. The meme’s nonsensical elements create a space for playful and reflective engagement, fostering emotional connections and community bonding.
 
 In summary, the "Me When I" meme’s cultural impact lies in its ability to integrate affect theory, emotional projection, identity construction, and absurdity into a cohesive and participatory experience. By doing so, it not only reflects the complexities of digital culture but also creates a space for connection, creativity, and shared meaning in the digital age.
+

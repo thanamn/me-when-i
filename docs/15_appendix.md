@@ -111,3 +111,4 @@ The fact that this meme was created by the thesis author rather than found "in t
 - **Platform-Specific Studies**: How different platforms affect meme reception
 - **Longitudinal Analysis**: Tracking meme evolution over time
 - **Cross-Cultural Studies**: Reception in non-English speaking communities
+

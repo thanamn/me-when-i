@@ -2,7 +2,7 @@
 id: 12_chapter8_discussion
 title: "Chapter 8: Discussion"
 ---
-# Chapter 8: Discussion — Coherence, Collapse, and Digital Absurdism
+# Chapter 8: Discussion - Coherence, Collapse, and Digital Absurdism
 
 ## 8.1 Reassessing Coherence and Meaning in Memes
 
@@ -99,3 +99,4 @@ Section 8.4 synthesized these analyses to position the "Me When I" meme as a cas
 Finally, Section 8.5 discussed the broader implications of the meme’s absurdist nature for internet culture and communication. By democratizing cultural production, blurring the lines between seriousness and play, and reflecting the fluid nature of identity, the "Me When I" meme exemplifies the transformative potential of absurdist humor in digital spaces.
 
 In conclusion, this chapter has shown how the "Me When I" meme operates as a dynamic and subversive artifact of digital culture, reflecting the fragmented, participatory, and absurdist tendencies of the digital age. This analysis sets the stage for the concluding chapter, which will synthesize the thesis’s key arguments and reflect on the broader significance of the "Me When I" meme within the landscape of post-ironic digital culture.
+

@@ -12,3 +12,4 @@ Ultimately, this research positions the "Me When I" meme as a microcosm of digit
 
 *Keywords: meme studies, affect theory, digital absurdism, semiotics, internet linguistics, visual culture, Tim Cook, postmodern media*
 
+
